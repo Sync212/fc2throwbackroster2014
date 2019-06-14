@@ -1,7 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-text=auto
-Sync&Rich 2014 throwback roster
+
+Sync 2014 throwback roster
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
 Big Ten,East,West,,,,,,,,,,,
@@ -186,9 +184,6 @@ COACH,WIS,Gary Andersen,51,85,85,75,75,Smashmouth,Balanced,,,,,,,
 COACH,WYO,Craig Bohl,56,70,70,80,80,Pro Style,Conservative,,,,,,,
 
 # Players
-PLAYER,<Team>,<Position>,<Name>,<Year>,<Height>,<Weight>,<Potential,<Football IQ>,<Durability>,<Attribute1(strength)>,<Attribute2(accuracy)>,<Attribute3(evasion)>,<Attribute4(speed)> FOR QBS
-PLAYER,<Team>,<Position>,<Name>,<Year>,<Height>,<Weight>,<Potential,<Football IQ>,<Durability>,<Attribute1(catching)>,<Attribute2(speed)>,<Attribute3(evasion)>,<Attribute4(blocking)> FOR WRS
-
 PLAYER,ALA,QB,Blake Sims,Sr,72,202,70,75,75,70,80,85,90
 PLAYER,ALA,QB,Jake Coker,Jr,77,232,65,75,75,85,85,70,75
 PLAYER,ALA,QB,Cooper Bateman,Fr,75,217,65,70,70,60,60
