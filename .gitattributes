@@ -184,6 +184,7 @@ COACH,WIS,Gary Andersen,51,85,85,75,75,Smashmouth,Balanced,,,,,,,
 COACH,WYO,Craig Bohl,56,70,70,80,80,Pro Style,Conservative,,,,,,,
 
 # Players
+# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 PLAYER,ALA,QB,Blake Sims,Sr,72,202,70,75,75,70,80,85,90
 PLAYER,ALA,QB,Jake Coker,Jr,77,232,65,75,75,85,85,70,75
 PLAYER,ALA,QB,Cooper Bateman,Fr,75,217,65,70,70,60,60
